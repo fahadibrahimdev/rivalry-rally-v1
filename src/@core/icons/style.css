@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?vmt6b');
+  src:  url('fonts/icomoon.eot?vmt6b#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?vmt6b') format('truetype'),
+    url('fonts/icomoon.woff?vmt6b') format('woff'),
+    url('fonts/icomoon.svg?vmt6b#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-down:before {
+  content: "\e910";
+}
+.icon-chevron-up:before {
+  content: "\e911";
+}
+.icon-facebook:before {
+  content: "\e90e";
+}
+.icon-instagram:before {
+  content: "\e908";
+}
+.icon-search:before {
+  content: "\e906";
+}
+.icon-twitter:before {
+  content: "\e90f";
+}
+.icon-x:before {
+  content: "\e90b";
+}
+.icon-hamburger:before {
+  content: "\e90a";
+}
+.icon-gambler:before {
+  content: "\e900";
+}
+.icon-spectators:before {
+  content: "\e901";
+}
+.icon-binoculars:before {
+  content: "\e902";
+}
+.icon-small-calendar:before {
+  content: "\e903";
+}
+.icon-play-video:before {
+  content: "\e904";
+}
+.icon-dollar-eye:before {
+  content: "\e905";
+}
+.icon-chats:before {
+  content: "\e907";
+}
